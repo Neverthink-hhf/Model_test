@@ -1,0 +1,45 @@
+
+p
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ìâÅÖ8Ã¦çò–/
+D
+java:S2129­"!Remove this "Integer" constructor(šı“åşÿÿÿÿ8Ã¦çò–/
+n	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÌã¾8Ã¦çò–/
+B
+java:S2131­"Use "Integer.toString" instead.(šı“åşÿÿÿÿ8Ã¦çò–/
+¡
+java:S1158­"~Call the static method Integer.toString(...) instead of instantiating a temporary object to perform this to string conversion.(šı“åşÿÿÿÿ8Ã¦çò–/
+V
+java:S1197•"8Move the array designator from the variable to the type.(½™—§8Ã¦çò–/
+¡
+java:S1158³"~Call the static method Integer.toString(...) instead of instantiating a temporary object to perform this to string conversion.(ú…ÿùÿÿÿÿ8Ã¦çò–/
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ8Éúàò–/
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íĞÒüıÿÿÿÿ8Ğõéò–/
+n	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÌã¾8Ã¦çò–/
+w
+java:S3012Æ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ó¬Åµ8Ã¦çò–/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Œå¸ıÿÿÿÿ8è‚÷ò–/
+[
+java:S1854"9Remove this useless assignment to local variable "a_sol".(—Œå¸ıÿÿÿÿ8¹·êò–/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“²œ›şÿÿÿÿ
+V
+java:S1197“"8Move the array designator from the variable to the type.(¦Àƒ‘8Ã¦çò–/
+B
+java:S2131³"Use "Integer.toString" instead.(ú…ÿùÿÿÿÿ8Ã¦çò–/
+D
+java:S2129³"!Remove this "Integer" constructor(ú…ÿùÿÿÿÿ8Ã¦çò–/
+s	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬­§’ùÿÿÿÿ8Ã¦çò–/
+B
+java:S2131º"Use "Integer.toString" instead.(ú…ÿùÿÿÿÿ8Ã¦çò–/
+D
+java:S1659""Declare "slow" on a separate line.(ßºóÿÿÿÿÿ8Ã¦çò–/
+n	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õõ½8Ã¦çò–/
+L
+java:S1481"*Remove this unused "a_sol" local variable.(—Œå¸ıÿÿÿÿ8è‚÷ò–/
+¡
+java:S1158º"~Call the static method Integer.toString(...) instead of instantiating a temporary object to perform this to string conversion.(ú…ÿùÿÿÿÿ8Ã¦çò–/
+B
+java:S1659‰"Declare "j" on a separate line.(á”æåşÿÿÿÿ8Ã¦çò–/
+U
+java:S1197”"8Move the array designator from the variable to the type.(ì¯øT8Ã¦çò–/
+D
+java:S2129º"!Remove this "Integer" constructor(ú…ÿùÿÿÿÿ8Ã¦çò–/

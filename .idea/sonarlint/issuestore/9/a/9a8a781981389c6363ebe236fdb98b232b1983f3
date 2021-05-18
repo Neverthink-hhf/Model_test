@@ -1,0 +1,47 @@
+
+e	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
+p	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ášÓøÿÿÿÿ8¡åÙ¾—/
+V	java:S125"<This block of commented-out lines of code should be removed.(œ¡Œ°8øÀ†ª—/
+[	java:S125"<This block of commented-out lines of code should be removed.(£œ¥æùÿÿÿÿ8øÀ†ª—/
+;
+java:S2129" Remove this "Double" constructor(ŠîŸ‚8Èð­©—/
+;
+java:S2153"Remove the boxing of "res".(—Í·áýÿÿÿÿ8¹±©—/
+:
+java:S2129" Remove this "Double" constructor(§þ±n8Èð­©—/
+`
+java:S2184"ECast one of the operands of this subtraction operation to a "double".(µ»”¤8Èð­©—/
+p	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âé·þÿÿÿÿ8šÙþ÷–/
+p	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç»÷þÿÿÿÿ8¼åß£—/
+p	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê’ÊØûÿÿÿÿ8ßá©—/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(üˆë¹úÿÿÿÿ8Â¦ˆª—/
+D
+java:S1659"$Declare "needle" on a separate line.(’Ý€°ÿÿÿÿÿ8êî™ª—/
+r
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ò¢Ô¢ýÿÿÿÿ8÷«¬©—/
+[	java:S125"<This block of commented-out lines of code should be removed.(²ïÒÿýÿÿÿÿ8îÅª—/
+P
+java:S1854"5Remove this useless assignment to local variable "s".(á˜·8áà…ª—/
+@
+java:S2129" Remove this "Double" constructor(—Í·áýÿÿÿÿ8¹±©—/
+[	java:S125"<This block of commented-out lines of code should be removed.(¤ÊÊûÿÿÿÿ8Ù°Ô£—/
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒúƒÎ8ŠÂí¥—/
+[	java:S125"<This block of commented-out lines of code should be removed.(²ïÒÿýÿÿÿÿ8îÅª—/
+l	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(è¢‘åùÿÿÿÿ8¿Èñò–/
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒúƒÎ8èÚ¨—/
+[	java:S125"<This block of commented-out lines of code should be removed.(£œ¥æùÿÿÿÿ8Áñ‘¦—/
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒúƒÎ8¼åß£—/
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥½Ò³8ú’õò–/
+8
+java:S2153"Remove the boxing to "Double".(§þ±n8Èð­©—/
+V	java:S125"<This block of commented-out lines of code should be removed.(œ¡Œ°8áà…ª—/
+V	java:S125"<This block of commented-out lines of code should be removed.(Š§¨ë8½§ ª—/
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ëñ¼¡øÿÿÿÿ
+9
+java:S2153"Remove the boxing to "Double".(ŠîŸ‚8Èð­©—/
+A
+java:S1481"&Remove this unused "s" local variable.(á˜·8áà…ª—/
+e
+java:S2184"ECast one of the operands of this subtraction operation to a "double".(¯á¡Áýÿÿÿÿ8’Ý§©—/
+j	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øñ’M8†´â¾—/
+p	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»’Ôæþÿÿÿÿ8«ôƒ¦—/
